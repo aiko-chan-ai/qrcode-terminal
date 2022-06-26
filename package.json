@@ -1,5 +1,5 @@
 {
-  "name": "qrcode-terminal",
+  "name": "@aikochan2k6/qrcode-terminal",
   "keywords": ["ansi", "ascii", "qrcode", "console"],
   "version" : "0.12.0",
   "description" : "QRCodes, in the terminal (Whoa, not cli support)",
